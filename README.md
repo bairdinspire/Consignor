@@ -1,2 +1,2 @@
 # Consignor
-Consignor management tool
+Web consignment management tool. 
